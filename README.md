@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,react,mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,react,mongodb,firebase,github,docker,linux" />
 </p>
 
 ---
@@ -46,7 +46,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bersins&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bersins&theme=radical&animate=true" />
+</p>
+
+<style>
+  @keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+  .contribution-graph {
+    animation: fadeIn 2s ease-in-out;
+  }
+</style>
+
+<p align="center" class="contribution-graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bersins&theme=radical&animate=true" />
 </p>
 
 ---
