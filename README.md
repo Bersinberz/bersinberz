@@ -1,4 +1,4 @@
-![Banner](https://readme-headers.vercel.app/api?title=Bersin%20S&subtitle=Aspiring%20ML%20Engineer%20%7C%20Web%20Developer%20%7C%20Backend%20Enthusiast&font=Raleway&textColor=ffffff&bgColor=0d1117)
+![Banner](banner.png)
 
 # 👋 Hi there, I'm Bersin S!  
 
