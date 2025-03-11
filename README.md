@@ -47,15 +47,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersinberz&layout=compact&theme=radical" height="150em"/>
 </p>
 
-<!-- Animated Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bersinberz&theme=radical&area=true&hide_border=true&bg_color=00000000" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bersinberz/Bersinberz/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ## 🏆 Achievements & Contributions
