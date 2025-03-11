@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077B6&width=550&lines=Machine+Learning+Engineer+%7C+Software+Developer;Backend+Enthusiast+%7C+Tech+Innovator;Building+Scalable+and+Efficient+Solutions!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077B6&width=700&lines=🤖+Machine+Learning+Engineer+%7C+Software+Developer;🚀+Backend+Enthusiast+%7C+Tech+Innovator;⚡+Building+Scalable+and+Efficient+Solutions!" />
 </p>
 
 <p align="center">
@@ -18,13 +18,17 @@
 
 ## 🎯 Skill Progress
 
-| Skill | Proficiency |
-|-------|------------|
-| JavaScript | ![85%](https://progress-bar.dev/85) |
-| Python | ![90%](https://progress-bar.dev/90) |
-| Java | ![80%](https://progress-bar.dev/80) |
-| React | ![75%](https://progress-bar.dev/75) |
-| Firebase | ![70%](https://progress-bar.dev/70) |
+| Skill          | Proficiency |
+|---------------|------------|
+| JavaScript    | ![80%](https://img.shields.io/badge/JavaScript-80%25-yellow) |
+| Python        | ![85%](https://img.shields.io/badge/Python-85%25-blue) |
+| Java          | ![75%](https://img.shields.io/badge/Java-75%25-red) |
+| C             | ![65%](https://img.shields.io/badge/C-65%25-lightgrey) |
+| MySQL         | ![50%](https://img.shields.io/badge/MySQL-50%25-blue) |
+| Node.js       | ![70%](https://img.shields.io/badge/Node.js-70%25-green) |
+| MongoDB       | ![70%](https://img.shields.io/badge/MongoDB-70%25-brightgreen) |
+| HTML/CSS      | ![90%](https://img.shields.io/badge/HTML%2FCSS-90%25-orange) |
+| Git/GitHub    | ![70%](https://img.shields.io/badge/Git%2FGitHub-70%25-lightgrey) |
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
@@ -35,33 +39,21 @@
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bersins&show_icons=true&theme=radical&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bersins&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bersinberz&show_icons=true&theme=radical&count_private=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bersinberz&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersins&layout=compact&theme=radical" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersinberz&layout=compact&theme=radical" height="150em"/>
 </p>
 
-<style>
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  @keyframes fadeGrid {
-    0% { opacity: 0; transform: scale(0.9); }
-    100% { opacity: 1; transform: scale(1); }
-  }
-  .contribution-graph {
-    animation: fadeIn 2s ease-in-out;
-  }
-  .contribution-grid img {
-    animation: fadeGrid 1.5s ease-in-out;
-  }
-</style>
+<!-- Animated Contribution Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bersinberz&theme=radical&area=true&hide_border=true&bg_color=00000000" />
+</p>
 
-<p align="center" class="contribution-grid">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bersins&theme=radical&animate=true" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bersinberz/Bersinberz/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -69,34 +61,17 @@
 ## 🏆 Achievements & Contributions
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bersins&theme=radical&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bersinberz&theme=radical&column=6" />
 </p>
 
 ---
 
-## 🎉 Fun Facts
+## 🌐 Connect with Me  
 
-- 🔥 I love working with AI and automation
-- 🤖 I experiment with machine learning models in my free time
-- 🚀 I’m passionate about building innovative tech solutions
-- 🎮 I enjoy gaming and tinkering with hardware setups
-- 🎵 I love listening to music while coding
-- 🌍 I’m always excited to learn about new tech trends
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bersins)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bersins)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bersins)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bersins@example.com)  
-
----
-
-<p align="center">
-  <img src="https://github.com/bersins/bersins/raw/main/coding.gif" width="400" height="250"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bersin-s-4b4938296/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bersinberz)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/Spidy)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bersinberz04@gmail.com)  
 
 ---
 
