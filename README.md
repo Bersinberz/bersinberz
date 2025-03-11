@@ -56,6 +56,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bersinberz&theme=radical&area=true&hide_border=true&bg_color=00000000" />
 </p>
+
 ---
 
 ## 🏆 Achievements & Contributions
