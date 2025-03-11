@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# 👋 <span style="animation: wave 1s infinite">Hi there, I'm Bersin S!</span>
+# 👋 <span style="display: inline-block; animation: wave 1.5s infinite;">Hi there, I'm Bersin S! 👋</span>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
