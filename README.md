@@ -1,6 +1,10 @@
-![Banner](banner)
+![Banner](banner.png)
 
 # 👋 Hi there, I'm Bersin S!  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+</p>
 
 ```python
 from developer import Bersin
@@ -30,6 +34,18 @@ me.say_hi()
 
 ---
 
+## 🎯 Skill Progress
+
+| Skill | Proficiency |
+|-------|------------|
+| JavaScript | ![85%](https://progress-bar.dev/85) |
+| Python | ![90%](https://progress-bar.dev/90) |
+| Java | ![80%](https://progress-bar.dev/80) |
+| React | ![75%](https://progress-bar.dev/75) |
+| Firebase | ![70%](https://progress-bar.dev/70) |
+
+---
+
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
@@ -49,6 +65,7 @@ me.say_hi()
 - 🤖 I experiment with machine learning models in my free time
 - 🚀 I’m passionate about building innovative tech solutions
 - 🎮 I enjoy gaming and tinkering with hardware setups
+- 🎵 I love listening to music while coding
 
 ---
 
@@ -69,6 +86,10 @@ me.say_hi()
 
 <p align="center">
   <img src="https://github.com/bersins/bersins/raw/main/coding.gif" width="400" height="250"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
 </p>
 
 ---
