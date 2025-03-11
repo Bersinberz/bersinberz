@@ -1,10 +1,8 @@
 ![Banner](banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&color=F70000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Bersin+S!+👋;Welcome+to+my+GitHub!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=500&color=F70000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Bersin+S!+👋;Welcome+to+my+GitHub!+🚀" />
 </p>
-
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
