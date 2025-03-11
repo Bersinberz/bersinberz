@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bersins&show_icons=true&theme=radical&count_private=true" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bersins&theme=radical" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bersinberz&show_icons=true&theme=radical&count_private=true" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bersinberz&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
