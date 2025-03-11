@@ -2,15 +2,6 @@
 
 # 👋 <span style="display: inline-block; opacity: 0; transform: translateY(-15px); animation: fadeInUp 1.5s ease-out forwards;">Hi there, I'm Bersin S! 👋</span>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
-</p>
-
-<!-- Define animations inside an SVG instead -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Hi+there%2C+I'm+Bersin+S!;Welcome+to+my+profile!;Let's+build+something+awesome!" />
-</p>
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
