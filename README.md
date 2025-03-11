@@ -46,11 +46,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersins&layout=compact&theme=radical" height="150em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersinberz&layout=compact&theme=radical" height="150em"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bersins&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bersinberz&theme=radical" />
 </p>
 
 ---
