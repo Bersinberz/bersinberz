@@ -6,23 +6,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </p>
 
-```python
-from developer import Bersin
-
-class AboutMe(Bersin):
-    def __init__(self):
-        self.roles = ["ML Engineer", "Web Developer", "Backend Enthusiast"]
-        self.tech_stack = ["Java", "Python", "JavaScript", "Node.js", "React", "MongoDB", "Firebase"]
-        self.fun_fact = "I almost always use AI to write code!"
-
-    def say_hi(self):
-        print("Welcome to my GitHub profile!")
-
-me = AboutMe()
-me.say_hi()
-```
 
 ## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=ML+Engineer+%7C+Web+Developer;Backend+Enthusiast+%7C+Tech+Lover;Let's+build+something+awesome!" />
+</p>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,6 +32,10 @@ me.say_hi()
 | Java | ![80%](https://progress-bar.dev/80) |
 | React | ![75%](https://progress-bar.dev/75) |
 | Firebase | ![70%](https://progress-bar.dev/70) |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
+</p>
 
 ---
 
@@ -78,18 +71,8 @@ me.say_hi()
 
 ---
 
-## 🌀 Animated Fun!
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=Welcome+to+my+profile!;AI+enthusiast+%7C+Web+Developer;Let's+code+something+awesome!" />
-</p>
-
 <p align="center">
   <img src="https://github.com/bersins/bersins/raw/main/coding.gif" width="400" height="250"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250"/>
 </p>
 
 ---
