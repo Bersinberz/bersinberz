@@ -1,17 +1,23 @@
 ![Banner](banner.png)
 
-# 👋 <span style="display: inline-block; animation: techStackAnim 1.5s infinite;">Hi there, I'm Bersin S! 👋</span>
+# 👋 <span class="animated-text">Hi there, I'm Bersin S! 👋</span>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </p>
 
 <style>
-  @keyframes techStackAnim {
-    0% { opacity: 0; transform: translateY(-10px); }
+  @keyframes fadeInUp {
+    0% { opacity: 0; transform: translateY(-15px); }
     100% { opacity: 1; transform: translateY(0); }
   }
+  
+  .animated-text {
+    display: inline-block;
+    animation: fadeInUp 1.5s ease-out forwards;
+  }
 </style>
+
 
 ## 🚀 Tech Stack
 
