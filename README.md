@@ -6,7 +6,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 </p>
 
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -50,6 +49,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersins&layout=compact&theme=radical" height="150em"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bersins&theme=radical" />
+</p>
+
 ---
 
 ## 🎉 Fun Facts
@@ -59,6 +62,7 @@
 - 🚀 I’m passionate about building innovative tech solutions
 - 🎮 I enjoy gaming and tinkering with hardware setups
 - 🎵 I love listening to music while coding
+- 🌍 I’m always excited to learn about new tech trends
 
 ---
 
@@ -68,6 +72,14 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/bersins)  
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/bersins)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bersins@example.com)  
+
+---
+
+## 🏆 Achievements & Contributions
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bersins&theme=radical&column=6" />
+</p>
 
 ---
 
