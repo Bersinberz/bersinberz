@@ -7,11 +7,11 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&width=435&lines=ML+Engineer+%7C+Web+Developer;Backend+Enthusiast+%7C+Tech+Lover;Let's+build+something+awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0077B6&width=550&lines=Machine+Learning+Engineer+%7C+Software+Developer;Backend+Enthusiast+%7C+Tech+Innovator;Building+Scalable+and+Efficient+Solutions!" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,mongodb,firebase,github,c,mysql,linux,html,react,git,css,ai,express,flask" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,nodejs,mongodb,firebase,github,c,mysql,linux,html,react,git,css,express" />
 </p>
 
 ---
