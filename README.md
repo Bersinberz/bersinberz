@@ -1,6 +1,9 @@
 ![Banner](banner.png)
 
-# 👋 <span style="display: inline-block; opacity: 0; transform: translateY(-15px); animation: fadeInUp 1.5s ease-out forwards;">Hi there, I'm Bersin S! 👋</span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&color=F70000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Bersin+S!+👋;Welcome+to+my+GitHub!+🚀" />
+</p>
+
 
 
 <p align="center">
